@@ -5,9 +5,9 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'ecommerce-test',
+  title: 'ecommerce',
 
-  projectId: 'aoty9rgn',
+  projectId: 'cx7brvc4',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
